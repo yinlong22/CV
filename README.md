@@ -24,7 +24,7 @@
 
 **项目源码**
 
-github.com/yinlong22， 点击查看效果预览
+github.com/yinlong22/CV， 点击查看效果预览
 
 
 ## 个人评价
