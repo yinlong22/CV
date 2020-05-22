@@ -1,4 +1,4 @@
-# 饥人谷
+# 已过期 [最新简历](https://yinlong22.github.io/CV_2/src/index.html)
 - 应聘职位： 前端工程师
 - 前端经验： 1年
 - 学历： 本科
